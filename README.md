@@ -13,5 +13,9 @@
 * Android Marshmallow, Nougat, Oreo, Pie
 
 ## Changelog
+### 1.0.1
+* Added support for Treble enabled devices
+* Updated Unity Installer to v4.4
+
 ### 1.0.0
 * Initial release

@@ -1,6 +1,6 @@
 id=s7camera2fix
 name=Samsung UHD Camera2 Fix
-version=1.0.0
-versionCode=20190417
+version=1.0.1
+versionCode=20190813
 author=Cvolton
 description=Enables applications based on Camera 2 API to record in 3840x2160 resolution. Compatible with Exynos based Samsung devices.
